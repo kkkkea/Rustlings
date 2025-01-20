@@ -5,6 +5,10 @@
 
 // I AM NOT DONE
 
+fn call_me() {
+    println!("Hello Wordl");
+}
+
 fn main() {
     call_me();
 }
